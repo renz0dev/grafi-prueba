@@ -1,0 +1,16 @@
+django 
+django-crispy-forms 
+reportlab 
+pandas 
+plotly
+whitenoise 
+django-environ 
+Pillow
+plotly
+pandas 
+openpyxl
+xlsxwriter
+djangorestframework
+mysqlclient
+django-cors-headers
+django-filter
